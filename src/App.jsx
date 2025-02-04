@@ -1,6 +1,6 @@
 import React from 'react';
-import QuestionSection from './QuestionSection';
-import ImageSection from './ImageSection';
+import QuestionSection from './features/question/QuestionSection.jsx';
+import ImageSection from './features/image/ImageSection.jsx';
 
 function App() {
   return (
@@ -10,7 +10,9 @@ function App() {
           <h1 className="text-5xl font-extrabold bg-gradient-to-r from-pink-400 via-red-400 to-yellow-400 bg-clip-text text-transparent">
             Welcome to Mind Freedom.AI
           </h1>
-          <p className="mt-4 text-xl">Unleash your mind with AI-driven insights and boundless creativity.</p>
+          <p className="mt-4 text-xl">
+            Unleash your mind with AI-driven insights and boundless creativity.
+          </p>
         </div>
       </header>
       <main className="flex-1 p-4 flex flex-col md:flex-row gap-4">

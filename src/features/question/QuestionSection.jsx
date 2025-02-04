@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import * as Sentry from '@sentry/browser';
-import { createEvent } from './supabaseClient';
+import { createEvent } from '../lib/supabaseClient.js';
 
 function QuestionSection() {
   const [question, setQuestion] = useState('');
