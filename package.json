@@ -1,7 +1,7 @@
 {
-  "name": "reactjs-vite-tailwind-vercel",
+  "name": "mind-freedom-ai",
   "version": "1.0.0",
-  "description": "New App - AI language model and image generator",
+  "description": "Mind Freedom.AI - AI language model and image generator",
   "type": "module",
   "scripts": {
     "dev": "vite",

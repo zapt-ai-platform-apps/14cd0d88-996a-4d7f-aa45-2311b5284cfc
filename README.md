@@ -1,6 +1,6 @@
-# New App
+# Mind Freedom.AI
 
-New App is an AI-powered application that allows users to ask any question and generate AI images based on a provided prompt. It combines a sophisticated language model interface with an innovative image generation feature to deliver a delightful user experience.
+Mind Freedom.AI is an AI-powered application that allows users to ask any question and generate AI images based on a provided prompt. This platform combines a sophisticated language model interface with innovative image generation capabilities to deliver a delightful and inspiring user experience.
 
 ## Recommended User Journeys
 
@@ -14,4 +14,4 @@ New App is an AI-powered application that allows users to ask any question and g
 - **Progressier:** Provides PWA support using a service worker and manifest.
 - **Umami:** Tracks website analytics.
 
-For detailed instructions on each journey, refer to the documents in the `docs/journeys/` folder.
+_For detailed instructions on each journey, please refer to the documents in the `docs/journeys/` folder._
