@@ -8,10 +8,10 @@ function App() {
       <header className="bg-gradient-to-r from-indigo-600 to-pink-500 text-white py-8 px-6 shadow-lg">
         <div className="container mx-auto text-center">
           <h1 className="text-5xl font-extrabold bg-gradient-to-r from-pink-400 via-red-400 to-yellow-400 bg-clip-text text-transparent">
-            Welcome to Mind Freedom.AI
+            Welcome to Freedom.AI
           </h1>
           <p className="mt-4 text-xl">
-            Unleash your mind with AI-driven insights and boundless creativity.
+            Unleash your potential with AI-driven insights and boundless creativity.
           </p>
         </div>
       </header>

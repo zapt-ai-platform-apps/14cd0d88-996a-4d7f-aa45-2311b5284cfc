@@ -1,7 +1,7 @@
 {
-  "name": "mind-freedom-ai",
+  "name": "freedom-ai",
   "version": "1.0.0",
-  "description": "Mind Freedom.AI - AI language model and image generator",
+  "description": "Freedom.AI - AI language model and image generator",
   "type": "module",
   "scripts": {
     "dev": "vite",

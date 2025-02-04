@@ -1,6 +1,6 @@
-# Mind Freedom.AI
+# Freedom.AI
 
-Mind Freedom.AI is an AI-powered application that allows users to ask any question and generate AI images based on a provided prompt. This platform combines a sophisticated language model interface with innovative image generation capabilities to deliver a delightful and inspiring user experience.
+Freedom.AI is an AI-powered application that allows users to ask any question and generate AI images based on a provided prompt. This platform combines a sophisticated language model interface with innovative image generation capabilities to deliver a delightful and inspiring user experience.
 
 ## Recommended User Journeys
 
